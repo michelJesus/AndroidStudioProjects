@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primeira APP usando XML</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ola_mundo_xml">Olá Mundo XML!</string>
+</resources>
